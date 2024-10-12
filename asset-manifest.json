@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/serverless-security/static/css/main.2da5288d.chunk.css",
+    "main.js": "/serverless-security/static/js/main.c15ed67b.chunk.js",
+    "main.js.map": "/serverless-security/static/js/main.c15ed67b.chunk.js.map",
+    "runtime~main.js": "/serverless-security/static/js/runtime~main.7d1edc16.js",
+    "runtime~main.js.map": "/serverless-security/static/js/runtime~main.7d1edc16.js.map",
+    "static/js/2.afef58d2.chunk.js": "/serverless-security/static/js/2.afef58d2.chunk.js",
+    "static/js/2.afef58d2.chunk.js.map": "/serverless-security/static/js/2.afef58d2.chunk.js.map",
+    "static/js/3.31c88699.chunk.js": "/serverless-security/static/js/3.31c88699.chunk.js",
+    "static/js/3.31c88699.chunk.js.map": "/serverless-security/static/js/3.31c88699.chunk.js.map",
+    "index.html": "/serverless-security/index.html",
+    "precache-manifest.6c9f1f02bc0cabffe1b0bbe6257a300b.js": "/serverless-security/precache-manifest.6c9f1f02bc0cabffe1b0bbe6257a300b.js",
+    "service-worker.js": "/serverless-security/service-worker.js",
+    "static/css/main.2da5288d.chunk.css.map": "/serverless-security/static/css/main.2da5288d.chunk.css.map",
+    "static/media/Pravarsha.png": "/serverless-security/static/media/Pravarsha.3d775fa7.png",
+    "static/media/SaiKumar.png": "/serverless-security/static/media/SaiKumar.9f602f6e.png",
+    "static/media/Sowjanya.png": "/serverless-security/static/media/Sowjanya.2475e907.png",
+    "static/media/Sowmya.png": "/serverless-security/static/media/Sowmya.747f79b3.png",
+    "static/media/vivek.png": "/serverless-security/static/media/vivek.f18d7b1e.png"
+  }
+}
